@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/ipsum-ea-placeat-velit",
-  "version": "4.7.83",
+  "version": "4.7.84",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -336,5 +336,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/ipsum-ea-placeat-velit/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
